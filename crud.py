@@ -11,12 +11,12 @@ for item in fruits:
     print(item)
 
 # U - Update
-fruits[1] = "grapes" # banana ni grapes ga marcham
+fruits[1] = "grapes" 
 print("After Update:", fruits)
 
 # D - Delete
 fruits.remove("mango")
 print("After Delete:", fruits)
 
-fruits.pop() # last item delete
+fruits.pop() 
 print("After pop:", fruits)
