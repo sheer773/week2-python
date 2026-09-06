@@ -1,4 +1,4 @@
-# 1. CRUD Operations on List
+#  CRUD Operations on List
 fruits = ["apple", "banana", "mango"]
 
 # C - Create / Add
